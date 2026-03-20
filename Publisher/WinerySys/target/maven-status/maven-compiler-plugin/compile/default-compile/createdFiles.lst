@@ -1,0 +1,5 @@
+br\com\fiap\winery\WineStockService.class
+br\com\fiap\winery\WineWarningServiceImplementation.class
+br\com\fiap\winery\WineWarningService.class
+br\com\fiap\winery\Loader.class
+br\com\fiap\winery\WineStockServiceImplementation.class
