@@ -7,9 +7,13 @@ Projeto desenvolvido para a disciplina de **Arquitetura SOA e Web Services**.
 ## 👨‍💻 Integrantes
 
 -Vinicius Oliveira RM556908
+
 -Enzo Dias RM558225
+
 -Gustavo Pierre RM558928
+
 -Gabriel Belo RM551669
+
 -Laura Souza RM556320
 
 ---
